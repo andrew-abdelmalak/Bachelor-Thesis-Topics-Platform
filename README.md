@@ -29,7 +29,7 @@ Ensure you have Node.js and npm installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Bachelor-Thesis-Topics-Platform.git
+   git clone https://github.com/andrew-abdelmalak/Bachelor-Thesis-Topics-Platform.git
    ```
 2. Navigate into the directory:
    ```bash
