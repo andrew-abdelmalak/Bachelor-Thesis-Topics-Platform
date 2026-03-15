@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "cra-template": "1.2.0",
     "framer-motion": "^11.15.0",
     "fuse.js": "^7.0.0",
     "lucide-react": "^0.469.0",
@@ -12,7 +11,6 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "use-debounce": "^10.0.4",
-    "web-vitals": "^4.2.4",
     "xlsx": "^0.18.5"
   },
   "scripts": {
@@ -49,10 +47,9 @@
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17"
   },
-  "homepage": "https://andrew-abdelmalak.github.io/Spring-2025---Bachelor-Thesis-Topics/",
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "Browse, search, and compare available Bachelor Thesis topics",
   "main": "tailwind.config.js",
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Andrew Abdelmalak",
+  "license": "MIT"
 }
