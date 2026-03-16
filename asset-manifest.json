@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Spring-2025---Bachelor-Thesis-Topics/static/css/main.37d707a6.css",
-    "main.js": "/Spring-2025---Bachelor-Thesis-Topics/static/js/main.8b469420.js",
-    "static/js/488.9c92ff38.chunk.js": "/Spring-2025---Bachelor-Thesis-Topics/static/js/488.9c92ff38.chunk.js",
-    "index.html": "/Spring-2025---Bachelor-Thesis-Topics/index.html",
-    "main.37d707a6.css.map": "/Spring-2025---Bachelor-Thesis-Topics/static/css/main.37d707a6.css.map",
-    "main.8b469420.js.map": "/Spring-2025---Bachelor-Thesis-Topics/static/js/main.8b469420.js.map",
-    "488.9c92ff38.chunk.js.map": "/Spring-2025---Bachelor-Thesis-Topics/static/js/488.9c92ff38.chunk.js.map"
+    "main.css": "/Bachelor-Thesis-Topics-Platform/static/css/main.37d707a6.css",
+    "main.js": "/Bachelor-Thesis-Topics-Platform/static/js/main.eeb872ef.js",
+    "index.html": "/Bachelor-Thesis-Topics-Platform/index.html",
+    "main.37d707a6.css.map": "/Bachelor-Thesis-Topics-Platform/static/css/main.37d707a6.css.map",
+    "main.eeb872ef.js.map": "/Bachelor-Thesis-Topics-Platform/static/js/main.eeb872ef.js.map"
   },
   "entrypoints": [
     "static/css/main.37d707a6.css",
-    "static/js/main.8b469420.js"
+    "static/js/main.eeb872ef.js"
   ]
 }
