@@ -54,5 +54,5 @@
   "main": "tailwind.config.js",
   "keywords": [],
   "author": "Andrew Abdelmalak",
-  "license": "ISC"
+  "license": "MIT"
 }
